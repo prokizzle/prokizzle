@@ -4,4 +4,4 @@
 - 🔭 I’m currently working on building zero configuration stealth projects in Electron and rxdb
 
 
-![Metrics](/github.metrics.svg)
+![Metrics](/github-metrics.svg)
